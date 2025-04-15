@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Amara Thorng!
 
-I’m passionate about programming — it’s not just a skill, it’s something I truly enjoy.  
-ICT is more than my major — it’s part of me. 💻💫  
+I’m passionate about programming it’s not just a skill, it’s something I truly enjoy.  
+ICT is more than my major it’s part of me. 💻💫  
 
 
 ## 👀 Interests
