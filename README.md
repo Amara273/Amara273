@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World, I'm Amara Thorng! I’m passionate about programming it’s not just a skill, it’s something I truly enjoy. ICT is more than my major it’s part of me. 💻💫  <br>👀 Interests <br>Web development (front-end and Backend)🌐 <br>Backend logic & APIs ⚙️ <br>Turning ideas into real-life projects 💡 <br>🌱 Currently Learning <br>Python 🐍 (and loving the journey!) <br>Java ☕ for strong, object-oriented foundations <br>HTML, CSS, JavaScript for web magic ✨ <br>💞️ Open to Collaborate On <br>Beginner-friendly open-source projects <br>Cool ideas that involve tech for good <br>Student community tools & learning platforms 📫 <br>⚡ Fun Fact <br>I don’t give up. I rewrite, rework, and rise again. 🚀
+Hello World, I'm Amara Thorng!
 
 
 
