@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Year 3 ICT student who loves building real-world tech projects.<br>I enjoy learning new technologies and improving my skills every day.<br><br>- Interested in Software Engineering & DevOps<br>- Currently working on RAG System and Fullstack with NLP Integration projects<br>- Learning more about Machine Learning, Cloud, and Backend Systems<br>- Goal: Become a skilled developer and build impactful applications
+I’m a Year 4 ICT student who loves building real-world tech projects.<br>I enjoy learning new technologies and improving my skills every day.<br><br>- Interested in Software Engineering & DevOps<br>- Currently working on RAG System and Fullstack with NLP Integration projects<br>- Learning more about Machine Learning, Cloud, and Backend Systems<br>- Goal: Become a skilled developer and build impactful applications
 
 
 ## 🌐 Socials:
