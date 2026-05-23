@@ -1,4 +1,4 @@
-<img src="[https://github.com/Amara273/readme-cover.svg/blob/main/gemini-svg.svg](https://github.com/Amara273/readme-cover.svg/blob/main/readme-cover.svg)" width="100%" />
+<img src="https://github.com/Amara273/readme-cover.svg/blob/main/gemini-svg.svg" width="100%" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thorng-amara) 
