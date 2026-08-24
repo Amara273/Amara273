@@ -1,4 +1,4 @@
-<img src="https://github.com/Amara273/readme-cover.svg/blob/main/amarathorng.svg" width="100%" />
+<img src="https://github.com/Amara273/amara-readme-banner/blob/main/myprofile.svg" width="100%" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Amara273&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
