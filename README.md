@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I’m an ICT student at the American University of Phnom Penh (AUPP) and an Application Developer Intern focused on building reliable backend systems, APIs, and database-driven applications.<br><br>I enjoy turning ideas into practical software — from designing backend architectures and REST APIs to building modern web applications and exploring cloud and modern technologies.<br><br>A Low-Code / No-Code SaaS platform designed to help users build and publish websites without starting from scratch.
+I’m an ICT student at the American University of Phnom Penh (AUPP) and an Application Developer Intern focused on building reliable backend systems, APIs, and database-driven applications.<br><br>I enjoy turning ideas into practical software — from designing backend architectures and REST APIs to building modern web applications and exploring cloud and modern technologies.
 
 
 # 💻 Tech Stack:
