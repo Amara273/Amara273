@@ -8,7 +8,6 @@ I continuously explore new technologies, strengthen my problem-solving skills, a
 Currently focused on:
 Building reliable backend systems and RESTful APIs.
 Designing efficient database structures and system architectures.
-Exploring cloud infrastructure, DevOps, and cybersecurity.
 Learning AI engineering and intelligent application development.
 Improving software engineering practices through real-world projects.
 
