@@ -2,21 +2,14 @@
 
 
 I'm an ICT student at the American University of Phnom Penh (AUPP) and an Application Developer with hands-on experience in building backend systems, RESTful APIs, and database-driven applications.
-
-I'm passionate about software engineering and enjoy turning ideas into practical, scalable solutions. My interests include Backend Engineering, System Architecture, Cloud Computing, DevOps, and AI Engineering.
-
+I'm passionate about software engineering and enjoy turning ideas into practical, scalable solutions. My interests include Backend Engineering, DevOps, and AI Engineering.
 I continuously explore new technologies, strengthen my problem-solving skills, and build projects that challenge me to grow as an engineer.
 
 Currently focused on:
-
 Building reliable backend systems and RESTful APIs.
-
 Designing efficient database structures and system architectures.
-
 Exploring cloud infrastructure, DevOps, and cybersecurity.
-
 Learning AI engineering and intelligent application development.
-
 Improving software engineering practices through real-world projects.
 
 
